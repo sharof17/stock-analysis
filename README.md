@@ -8,7 +8,7 @@ The project was carried out to determine profitability rate of investing in stoc
 The main purpose of the project is to refactor the code and increase its efficiency to make it work faster.
 
 ## Results
-Analysis showed that refactoring the code made the it work faster. Now, investors can bigger dataset more efficiently. The following pictures demonstrate the processing time (after refactoring). 
+Analysis showed that because it was looped through the data once to collect information, the code started to work faster. Now, investors can bigger dataset more efficiently. The following pictures demonstrate the processing time (after refactoring). 
 
 All Stocks (2017)
 
