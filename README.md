@@ -28,6 +28,6 @@ Refactoring leads to better quality code making it cleaner and more organized. I
 
 ### Pros and Cons of the Original and Refactored VBA Script
 
-The biggest advantage of refactoring is the decrease of processing time. However, original code was working well illustrating all the outputs one by one.
+The biggest advantage of refactoring is the decrease of processing time and cleanness of the code. However, original code was working well for a dozen stocks illustrating all the outputs one by one using nested loop.
 
-The disadvantage of refactoring is that it was needed to rewrite and retest "for" loops.
+The disadvantage of refactoring is that it was needed to rewrite and retest "for" loops. And, in the original code the processing time was much longer, meaning that it was inefficient for big dataset.
